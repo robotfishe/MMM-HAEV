@@ -2,6 +2,10 @@
 
 This MagicMirror module is based on my older [MMM-Tronity](https://github.com/robotfishe/MMM-Tronity/) module, and uses the same style and layout, but this one is designed to pull its data from Home Assistant.
 
+To install:
+- Run git clone https://github.com/robotfishe/MMM-Tronity.git
+- Run npm install
+
 Minimal configuration:
 You'll need to set the following config variables:
 - apiKey: a valid long-lived access token for your Home Assistant server
