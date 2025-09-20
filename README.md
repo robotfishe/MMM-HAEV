@@ -12,7 +12,7 @@ You'll need to set the following config variables:
 
 Map settings:
 - map: set to "true" to display a map of your vehicle's current location; defaults to false
-- mapboxApiKey: API key for mapbox.com; must be set if "map" is set to true
+- mapboxApiKey: API key for [mapbox.com]; must be set if "map" is set to true
 - mapboxStyle: set to one of mapbox.com's available [styles](https://docs.mapbox.com/api/maps/styles/); defaults to "satellite-streets-v11"
 
 Other settings:
