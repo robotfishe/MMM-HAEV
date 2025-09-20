@@ -1,6 +1,6 @@
 # MMM-HAEV
 
-This MagicMirror module is based on my older [MMM-Tronity](https://github.com/robotfishe/MMM-Tronity/) module, and uses the same style and layout, but this one is designed to pull its data from Home Assistant.
+"HAEV" stands for "Home Assistant Electric Vehicle". This MagicMirror module displays data on the current charge status and (optionally) location of your EV. It is based on my older [MMM-Tronity](https://github.com/robotfishe/MMM-Tronity/) module, and uses the same style and layout, but this one is designed to pull its data from Home Assistant.
 
 To install:
 - Run git clone https://github.com/robotfishe/MMM-Tronity.git
