@@ -1,0 +1,30 @@
+@import url("https://use.fontawesome.com/releases/v6.1.1/css/all.css");
+}
+.centred{
+	display:block;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	line-height:0.9;
+}
+
+#can{
+	position:absolute;
+}
+
+#wrapper {
+  position: relative;
+  margin-top:18px;
+}
+
+.canCell {
+	text-align: center;
+}
+
+.iconCell {
+	text-align: center;
+	width: 2rem;
+	padding-right: 0.2rem;
+	padding-left: 1rem;
+}
