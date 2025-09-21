@@ -18,6 +18,7 @@ Map settings:
 - map: set to "true" to display a map of your vehicle's current location; defaults to false
 - mapboxApiKey: API key for [mapbox.com](https://mapbox.com); must be set if "map" is set to true
 - mapboxStyle: set to one of mapbox.com's available [styles](https://docs.mapbox.com/api/maps/styles/); defaults to "satellite-streets-v11"
+- locationEntity: Home Assistant entity with "latitude" and "longitude" attributes for your vehicle's location
 
 Other settings:
 - updateInterval: in milliseconds; defaults to 5 minutes
